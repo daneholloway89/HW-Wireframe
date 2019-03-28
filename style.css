@@ -7,7 +7,6 @@ body {
 
 .container {
     width: 1024px;
-    /* width: 100%; */
     margin: 0 auto;
     overflow: hidden;
 
@@ -42,7 +41,6 @@ section {
     text-align: center;
     background: white;
     margin: 1% 2% 1% 0%;
-    /* padding: 110px; */
     width: 49%;
     height: 220px;
 
@@ -82,18 +80,17 @@ aside {
     text-align: center;
     background: white;
     margin: 1% 0% 1% 0%;
-    /* padding: 110px; */
     width: 49%;
     height: 220px;
 }
 
 footer {
-        clear: both;
-        background: white;
-        width: 1024px;
-        padding: 35px;
-        margin: 30px auto;
-        text-align: center;
-        color: rgb(134, 134, 134);
+    clear: both;
+    background: white;
+    width: 1024px;
+    padding: 35px;
+    margin: 30px auto;
+    text-align: center;
+    color: rgb(134, 134, 134);
 
 }
